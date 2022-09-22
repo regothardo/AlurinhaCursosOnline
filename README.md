@@ -1,5 +1,7 @@
 # <h1 align="center">AlurinhaCursosOnline</h1>
 
+<br>
+
 <h2 align="center"> Imagem da página Desktop </h2>
 <br>
 
