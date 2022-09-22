@@ -1,5 +1,23 @@
 # <h1 align="center">AlurinhaCursosOnline</h1>
 
+<h2 align="center"> Imagem da página Desktop </h2>
+<br>
+
+![Imagem do site da AluraPlus Desktop](./layouts/Alurinha.png)
+
+<br>
+
+<h2 align="center"> Imagem da página Mobile </h2>
+<br>
+
+<div align="center">
+
+![Imagem do site da AluraPlus Mobile](./layouts/alurinha-layout-mobile.png)
+
+</div>
+
+<br>
+
 <h2 align="center"> Descrição do Projeto </h2>
 <br>
     Criação do site Alurinha para venda de cursos online.<br>
