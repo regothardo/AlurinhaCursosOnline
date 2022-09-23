@@ -1,4 +1,4 @@
-# <h1 align="center">AlurinhaCursosOnline</h1>
+# <h1 align="center">Alurinha Cursos Online</h1>
 
 <br>
 
